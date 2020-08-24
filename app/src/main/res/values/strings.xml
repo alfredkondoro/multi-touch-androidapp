@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Multi-Touch</string>
+    <string name="first_touch">First Touch</string>
+    <string name="second_touch">Second Touch</string>
 </resources>
